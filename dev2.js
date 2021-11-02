@@ -1,1 +1,1 @@
-console.log('dev2 code')
+console.log('dev2 code');
